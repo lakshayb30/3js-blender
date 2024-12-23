@@ -1,8 +1,11 @@
-# React + Vite
+# 3D Coffee Shop Interactive Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This repository contains a 3D model of a coffee shop created in Blender and an interactive web interface built using Three.js and react-three-fiber.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tools and Libraries
+- Blender: Used for creating and exporting the 3D coffee shop model.
+- Three.js: JavaScript library for creating 3D visuals in the browser.
+- React: Framework for building the web interface.
+- react-three-fiber: React renderer for Three.js.
+- Vite: For bundling and serving the application.
